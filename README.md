@@ -18,4 +18,4 @@ ulora.py
 ulora_encryption.py
 
 Heltec LoRa V.2 Example. Sending LoRaWAN Test string using ABP authentication method.
-https://khunsomsak.medium.com/วิธีติดตั้ง-micropython-บน-heltec-wifi-lora-32-v2-และใช้งาน-lorawan-176c74b9e1d4
+https://khunsomsak.medium.com/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-micropython-%E0%B8%9A%E0%B8%99-heltec-wifi-lora-32-v2-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-lorawan-176c74b9e1d4
